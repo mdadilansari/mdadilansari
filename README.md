@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdadilansari
+- 👋 Hi, I’m Adil
 - 👀 I’m interested in Web Development using HTML, CSS, JavaScript, TypeScript and Angular
 - 🌱 I’m currently learning Node.js and Spring Boot
 - 💞️ I’m looking to collaborate on any front end web dev projects for hactoberfest
