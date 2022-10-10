@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adil
-- 👀 I’m interested in Web Development using HTML, CSS, JavaScript, TypeScript and Angular
+- 👀 I’m interested in Full Stack Web Development using HTML, CSS, JavaScript, TypeScript and Angular
 - 🌱 I’m currently learning Node.js and Spring Boot
 - 💞️ I’m looking to collaborate on any front end web dev projects for hactoberfest
 - 📫 How to reach me on my mail id adil.md.ansari@gmail.com
